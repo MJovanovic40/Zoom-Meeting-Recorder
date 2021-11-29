@@ -1,0 +1,4 @@
+schedule
+ffmpeg-python
+screen_recorder_sdk
+pyaudio
